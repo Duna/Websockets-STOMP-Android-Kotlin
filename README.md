@@ -2,7 +2,7 @@
 
 ## Overview
 
-![Visitor Count](https://profile-counter.glitch.me/Duna/count.svg)
+[![HitCount](https://hits.dwyl.com/Duna/Websockets-STOMP-Android-Kotlin.svg?style=flat-square)](http://hits.dwyl.com/Duna/Websockets-STOMP-Android-Kotlin)
 
 This library provide support for STOMP protocol https://stomp.github.io/
 At now library works only as client for backend with support STOMP, such as
