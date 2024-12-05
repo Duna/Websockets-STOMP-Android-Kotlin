@@ -2,6 +2,8 @@
 
 ## Overview
 
+![Visitor Count](https://profile-counter.glitch.me/Duna/count.svg)
+
 This library provide support for STOMP protocol https://stomp.github.io/
 At now library works only as client for backend with support STOMP, such as
 NodeJS (stompjs or other) or Spring Boot (SockJS).
